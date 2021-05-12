@@ -1,20 +1,190 @@
-<mxfile host="app.diagrams.net" modified="2021-05-12T16:28:42.824Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="06rURKwZRU2O6p_yOUeD" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-12T23:55:56.811Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="pT0pXr9dUi5lbAYhWnoA" version="14.6.1" type="github">
   <diagram id="m8aTjoOfV7dFGpyjvriM" name="Page-1">
-    <mxGraphModel dx="2062" dy="1123" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2889" dy="1123" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bnBMacwo3lmm5NPcSKSP-2" value="制定项目章程" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-66" value="项目章程" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bnBMacwo3lmm5NPcSKSP-2" target="bnBMacwo3lmm5NPcSKSP-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-68" value="项目章程" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bnBMacwo3lmm5NPcSKSP-2" target="t7Aojp-ItPG905D_gQ0Z-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-69" value="项目章程" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bnBMacwo3lmm5NPcSKSP-2" target="bnBMacwo3lmm5NPcSKSP-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-70" value="项目章程" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bnBMacwo3lmm5NPcSKSP-2" target="t7Aojp-ItPG905D_gQ0Z-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-71" value="项目章程" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bnBMacwo3lmm5NPcSKSP-2" target="t7Aojp-ItPG905D_gQ0Z-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bnBMacwo3lmm5NPcSKSP-2" value="制定项目章程" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bnBMacwo3lmm5NPcSKSP-3" value="制定项目管理计划" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="bnBMacwo3lmm5NPcSKSP-3" value="制定项目管理计划" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="170" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bnBMacwo3lmm5NPcSKSP-4" value="结束项目或阶段" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="bnBMacwo3lmm5NPcSKSP-5" value="规划范围管理" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bnBMacwo3lmm5NPcSKSP-5" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="80" width="120" height="60" as="geometry" />
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-1" value="收集需求" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-2" value="定义范围" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-3" value="创建WBS" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-4" value="规划进度管理" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-5" value="定义活动" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-6" value="排列活动顺序" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-7" value="指导与管理项目工作" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-8" value="管理项目知识" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-9" value="监控项目工作" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-10" value="实施整体变更控制" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-11" value="结束项目或阶段&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E5%AE%9A%E4%B9%89%E8%8C%83%E5%9B%B4%22%20style%3D%22shape%3Dprocess%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BbackgroundOutline%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22640%22%20y%3D%22300%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E5%AE%9A%E4%B9%89%E8%8C%83%E5%9B%B4%22%20style%3D%22shape%3Dprocess%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BbackgroundOutline%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22640%22%20y%3D%22300%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-12" value="确认范围" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-13" value="控制范围" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-14" value="估算项目持续时间" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-15" value="制定进度计划" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-16" value="控制进度" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-17" value="规划成本管理" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-18" value="估算成本" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-19" value="制定预算" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-20" value="控制成本" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-21" value="规划质量管理" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-22" value="管理质量" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-23" value="控制质量" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-24" value="规划资源管理" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-25" value="估算活动资源" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-26" value="获得资源" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-27" value="建设团队" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-28" value="管理团队" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-29" value="监督沟通" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-30" value="规划风险管理" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-31" value="识别风险" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-32" value="实施定性风险分析" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-33" value="实施定量风险分析" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-34" value="规划风险应对" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-35" value="实施风险应对" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-36" value="监督风险" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-37" value="规划采购管理" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-38" value="实施采购" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="1150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-39" value="控制采购" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-40" value="识别相关方" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-41" value="规划相关方参与" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-42" value="监督相关方参与" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="t7Aojp-ItPG905D_gQ0Z-45" target="bnBMacwo3lmm5NPcSKSP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-45" value="商业文件" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="160" width="140" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-46" value="商业论证" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="t7Aojp-ItPG905D_gQ0Z-45">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-47" value="商业分析" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="t7Aojp-ItPG905D_gQ0Z-45">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="t7Aojp-ItPG905D_gQ0Z-60" target="bnBMacwo3lmm5NPcSKSP-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="337" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="t7Aojp-ItPG905D_gQ0Z-55" target="bnBMacwo3lmm5NPcSKSP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-55" value="事业环境因素" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="440" width="140" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="t7Aojp-ItPG905D_gQ0Z-59" target="bnBMacwo3lmm5NPcSKSP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-59" value="组织过程资产" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="533" width="140" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="t7Aojp-ItPG905D_gQ0Z-60" value="协议" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="320" width="140" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
